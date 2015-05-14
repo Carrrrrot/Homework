@@ -11,7 +11,7 @@ body{
 }
 h1{
 	font-size: 50px; 
-    font-family: 'Castellar';
+    font-family: 'Castellar'; /* откуда берется этот шрифт? */
 	text-align: center;
 }
 h2 {
@@ -29,3 +29,4 @@ h2 {
 .article a:hover {
 	color: #2c3d68;
 	text-decoration: none;
+} /* не забываем закрывать блоки */
